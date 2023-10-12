@@ -75,9 +75,6 @@ dt.predict([[5,6]])
 ## Converting string literals to numerical values using label encoder:
 ![image](out4.png)
 
-## Assigning x and y values:
-![image](out5.png)
-
 ## Mean Squared Error:
 ![image](out6.png)
 
